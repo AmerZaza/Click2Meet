@@ -1,0 +1,32 @@
+@media screen and (max-device-width :  700px) {
+
+
+/* Start Index*/
+.fast-link{
+	display: block;
+}
+.items-horizon{
+	overflow-x: scroll;
+}
+
+/* Start Side area all Ads*/
+	.ads-side-area{
+		display: none;
+	}
+/* End Side area all Ads*/
+/* Start ??_Items Page */
+
+.all-photo-list{
+	height:250px;
+}
+.scrool-btn{
+	margin: auto;
+}
+.focus-photo{
+	height: 250px;
+}
+/* End ??_Items Page */
+
+
+
+}
